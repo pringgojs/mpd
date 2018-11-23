@@ -1,0 +1,4 @@
+link = https://data.taipei/dataset/detail/metadata?id=2f238b4f-1b27-4085-93e9-d684ef0e2735
+data diambil = tahun 104
+
+gunakan Google Translate
